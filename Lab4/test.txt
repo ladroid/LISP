@@ -1,0 +1,2 @@
+
+((:|PRODUCTION| "АсКо" :|TYPE| "СА" :|NAMING| "PL-30N") (:|PRODUCTION| "АсКо" :|TYPE| "СА" :|NAMING| "AD22C-6") (:|PRODUCTION| "АсКо" :|TYPE| "СА" :|NAMING| "AD16-16DS") (:|PRODUCTION| "АсКо" :|TYPE| "СА" :|NAMING| "AD22C-6") (:|PRODUCTION| "АсКо" :|TYPE| "СА" :|NAMING| "NXD-211") (:|PRODUCTION| "АсКо" :|TYPE| "СА" :|NAMING| "PL1-101")) 
